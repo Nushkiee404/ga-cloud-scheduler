@@ -90,7 +90,7 @@ ga-cloud-scheduler/
 
 ## Live Research Document
 
-📝 **Working research log (Google Doc):** [Insert link here]  
+📝 **Working research log (Google Doc):** [https://docs.google.com/document/d/1NzXbU5Z-UohmmA8NvxRi7cOAVHCcn414C1y9UueKgNo/edit?usp=sharing]  
 All daily progress, literature notes, GA design decisions, and paper draft sections are maintained there.
 
 ---
